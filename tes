@@ -1,0 +1,16 @@
+<html>
+<head>
+ <title>Biodata</title>
+ </head>
+ <body>
+ <b>Latar Belakang</b>
+ <ul type="disc">
+  <li> Nama : Maximilian H M Lingga
+  <li> Tempat/Tanggal Lahir : Tangerang, 30 Januari 2001
+  <li> Pekerjaan : Mahasiswa
+  </ul>
+ <b>Latar Pendidikan</b>
+ <ul type="disc">
+  <li> SD : SD St Thomas 2 Medan
+  <li> SMP : SMP Bintang Timur Siantar
+  <li> SMA : SMA Del Laguboti
